@@ -1,0 +1,891 @@
+﻿<process name="Translator" version="1.0" bpversion="7.0.0.40580" narrative="Translater&#xD;&#xA;" byrefcollection="true" type="object" runmode="Exclusive" preferredid="1f2918e5-ad09-484f-b44e-5b3ccd073632">
+  <appdef>
+    <element name="Translater">
+      <id>31799423-63e1-42c8-bfcc-d1149158b7e4</id>
+      <element name="URL">
+        <id>79222943-6257-4184-a214-18093af5b922</id>
+        <type>UIAEdit</type>
+        <basetype>UIAEdit</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="uX">
+            <ProcessValue datatype="number" value="213" />
+          </attribute>
+          <attribute name="uY">
+            <ProcessValue datatype="number" value="60" />
+          </attribute>
+          <attribute name="uWidth">
+            <ProcessValue datatype="number" value="1443" />
+          </attribute>
+          <attribute name="uHeight">
+            <ProcessValue datatype="number" value="36" />
+          </attribute>
+          <attribute name="uClassName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAutomationId">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uControlType">
+            <ProcessValue datatype="text" value="Edit" />
+          </attribute>
+          <attribute name="uLocalizedControlType">
+            <ProcessValue datatype="text" value="edit" />
+          </attribute>
+          <attribute name="uIsPassword">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uIsRequiredForForm">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uName" inuse="True">
+            <ProcessValue datatype="text" value="Address and search bar" />
+          </attribute>
+          <attribute name="uOrientation">
+            <ProcessValue datatype="text" value="None" />
+          </attribute>
+          <attribute name="uItemStatus">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uItemType">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOffscreen">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uTopLevelWindowId">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uLabeledBy">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uEnabled">
+            <ProcessValue datatype="text" value="True" />
+          </attribute>
+          <attribute name="uAcceleratorKey">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAccessKey">
+            <ProcessValue datatype="text" value="Ctrl+L" />
+          </attribute>
+          <attribute name="uHasKeyboardFocus">
+            <ProcessValue datatype="text" value="False" />
+          </attribute>
+          <attribute name="uHelpText">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uProcessId">
+            <ProcessValue datatype="text" value="6832" />
+          </attribute>
+          <attribute name="puControlType">
+            <ProcessValue datatype="text" value="ToolBar" />
+          </attribute>
+          <attribute name="puLocalizedControlType">
+            <ProcessValue datatype="text" value="tool bar" />
+          </attribute>
+          <attribute name="puClassName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puAutomationId">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="Right_box">
+        <id>70c125b6-5a54-494f-b911-c2baf589a3b1</id>
+        <type>WebText</type>
+        <basetype>WebText</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="wX">
+            <ProcessValue datatype="number" value="631" />
+          </attribute>
+          <attribute name="wY">
+            <ProcessValue datatype="number" value="130" />
+          </attribute>
+          <attribute name="wWidth">
+            <ProcessValue datatype="number" value="574" />
+          </attribute>
+          <attribute name="wHeight">
+            <ProcessValue datatype="number" value="237" />
+          </attribute>
+          <attribute name="wClientX">
+            <ProcessValue datatype="number" value="24" />
+          </attribute>
+          <attribute name="wClientY">
+            <ProcessValue datatype="number" value="24" />
+          </attribute>
+          <attribute name="wClientWidth">
+            <ProcessValue datatype="number" value="482" />
+          </attribute>
+          <attribute name="wClientHeight">
+            <ProcessValue datatype="number" value="129" />
+          </attribute>
+          <attribute name="wOffsetX">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="wOffsetY">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="wOffsetWidth">
+            <ProcessValue datatype="number" value="574" />
+          </attribute>
+          <attribute name="wOffsetHeight">
+            <ProcessValue datatype="number" value="237" />
+          </attribute>
+          <attribute name="wScrollX">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="wScrollY">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="wScrollWidth">
+            <ProcessValue datatype="number" value="482" />
+          </attribute>
+          <attribute name="wScrollHeight">
+            <ProcessValue datatype="number" value="129" />
+          </attribute>
+          <attribute name="wId">
+            <ProcessValue datatype="text" value="translation" />
+          </attribute>
+          <attribute name="wElementType">
+            <ProcessValue datatype="text" value="PRE" />
+          </attribute>
+          <attribute name="wXPath" inuse="True">
+            <ProcessValue datatype="text" value="/HTML[1]/BODY[1]/DIV[1]/MAIN[1]/DIV[1]/DIV[1]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/PRE[1]" />
+          </attribute>
+          <attribute name="wCssSelector">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wValue">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wPageAddress">
+            <ProcessValue datatype="text" value="https://translate.yandex.ru/?lang=en-ru&amp;text=Example%20is%20it" />
+          </attribute>
+          <attribute name="wClass">
+            <ProcessValue datatype="text" value="textinput textlayer translation state-fadeaway" />
+          </attribute>
+          <attribute name="wChildCount">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="wIsEditable">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="wStyle">
+            <ProcessValue datatype="text" value="{&quot;accentColor&quot;:&quot;&quot;,&quot;additiveSymbols&quot;:&quot;&quot;,&quot;alignContent&quot;:&quot;&quot;,&quot;alignItems&quot;:&quot;&quot;,&quot;alignSelf&quot;:&quot;&quot;,&quot;alignmentBaseline&quot;:&quot;&quot;,&quot;all&quot;:&quot;&quot;,&quot;animation&quot;:&quot;&quot;,&quot;animationDelay&quot;:&quot;&quot;,&quot;animationDirection&quot;:&quot;&quot;,&quot;animationDuration&quot;:&quot;&quot;,&quot;animationFillMode&quot;:&quot;&quot;,&quot;animationIterationCount&quot;:&quot;&quot;,&quot;animationName&quot;:&quot;&quot;,&quot;animationPlayState&quot;:&quot;&quot;,&quot;animationTimingFunction&quot;:&quot;&quot;,&quot;appRegion&quot;:&quot;&quot;,&quot;appearance&quot;:&quot;&quot;,&quot;ascentOverride&quot;:&quot;&quot;,&quot;aspectRatio&quot;:&quot;&quot;,&quot;backdropFilter&quot;:&quot;&quot;,&quot;backfaceVisibility&quot;:&quot;&quot;,&quot;background&quot;:&quot;&quot;,&quot;backgroundAttachment&quot;:&quot;&quot;,&quot;backgroundBlendMode&quot;:&quot;&quot;,&quot;backgroundClip&quot;:&quot;&quot;,&quot;backgroundColor&quot;:&quot;&quot;,&quot;backgroundImage&quot;:&quot;&quot;,&quot;backgroundOrigin&quot;:&quot;&quot;,&quot;backgroundPosition&quot;:&quot;&quot;,&quot;backgroundPositionX&quot;:&quot;&quot;,&quot;backgroundPositionY&quot;:&quot;&quot;,&quot;backgroundRepeat&quot;:&quot;&quot;,&quot;backgroundRepeatX&quot;:&quot;&quot;,&quot;backgroundRepeatY&quot;:&quot;&quot;,&quot;backgroundSize&quot;:&quot;&quot;,&quot;baselineShift&quot;:&quot;&quot;,&quot;blockSize&quot;:&quot;&quot;,&quot;border&quot;:&quot;&quot;,&quot;borderBlock&quot;:&quot;&quot;,&quot;borderBlockColor&quot;:&quot;&quot;,&quot;borderBlockEnd&quot;:&quot;&quot;,&quot;borderBlockEndColor&quot;:&quot;&quot;,&quot;borderBlockEndStyle&quot;:&quot;&quot;,&quot;borderBlockEndWidth&quot;:&quot;&quot;,&quot;borderBlockStart&quot;:&quot;&quot;,&quot;borderBlockStartColor&quot;:&quot;&quot;,&quot;borderBlockStartStyle&quot;:&quot;&quot;,&quot;borderBlockStartWidth&quot;:&quot;&quot;,&quot;borderBlockStyle&quot;:&quot;&quot;,&quot;borderBlockWidth&quot;:&quot;&quot;,&quot;borderBottom&quot;:&quot;&quot;,&quot;borderBottomColor&quot;:&quot;&quot;,&quot;borderBottomLeftRadius&quot;:&quot;&quot;,&quot;borderBottomRightRadius&quot;:&quot;&quot;,&quot;borderBottomStyle&quot;:&quot;&quot;,&quot;borderBottomWidth&quot;:&quot;&quot;,&quot;borderCollapse&quot;:&quot;&quot;,&quot;borderColor&quot;:&quot;&quot;,&quot;borderEndEndRadius&quot;:&quot;&quot;,&quot;borderEndStartRadius&quot;:&quot;&quot;,&quot;borderImage&quot;:&quot;&quot;,&quot;borderImageOutset&quot;:&quot;&quot;,&quot;borderImageRepeat&quot;:&quot;&quot;,&quot;borderImageSlice&quot;:&quot;&quot;,&quot;borderImageSource&quot;:&quot;&quot;,&quot;borderImageWidth&quot;:&quot;&quot;,&quot;borderInline&quot;:&quot;&quot;,&quot;borderInlineColor&quot;:&quot;&quot;,&quot;borderInlineEnd&quot;:&quot;&quot;,&quot;borderInlineEndColor&quot;:&quot;&quot;,&quot;borderInlineEndStyle&quot;:&quot;&quot;,&quot;borderInlineEndWidth&quot;:&quot;&quot;,&quot;borderInlineStart&quot;:&quot;&quot;,&quot;borderInlineStartColor&quot;:&quot;&quot;,&quot;borderInlineStartStyle&quot;:&quot;&quot;,&quot;borderInlineStartWidth&quot;:&quot;&quot;,&quot;borderInlineStyle&quot;:&quot;&quot;,&quot;borderInlineWidth&quot;:&quot;&quot;,&quot;borderLeft&quot;:&quot;&quot;,&quot;borderLeftColor&quot;:&quot;&quot;,&quot;borderLeftStyle&quot;:&quot;&quot;,&quot;borderLeftWidth&quot;:&quot;&quot;,&quot;borderRadius&quot;:&quot;&quot;,&quot;borderRight&quot;:&quot;&quot;,&quot;borderRightColor&quot;:&quot;&quot;,&quot;borderRightStyle&quot;:&quot;&quot;,&quot;borderRightWidth&quot;:&quot;&quot;,&quot;borderSpacing&quot;:&quot;&quot;,&quot;borderStartEndRadius&quot;:&quot;&quot;,&quot;borderStartStartRadius&quot;:&quot;&quot;,&quot;borderStyle&quot;:&quot;&quot;,&quot;borderTop&quot;:&quot;&quot;,&quot;borderTopColor&quot;:&quot;&quot;,&quot;borderTopLeftRadius&quot;:&quot;&quot;,&quot;borderTopRightRadius&quot;:&quot;&quot;,&quot;borderTopStyle&quot;:&quot;&quot;,&quot;borderTopWidth&quot;:&quot;&quot;,&quot;borderWidth&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;boxShadow&quot;:&quot;&quot;,&quot;boxSizing&quot;:&quot;&quot;,&quot;breakAfter&quot;:&quot;&quot;,&quot;breakBefore&quot;:&quot;&quot;,&quot;breakInside&quot;:&quot;&quot;,&quot;bufferedRendering&quot;:&quot;&quot;,&quot;captionSide&quot;:&quot;&quot;,&quot;caretColor&quot;:&quot;&quot;,&quot;clear&quot;:&quot;&quot;,&quot;clip&quot;:&quot;&quot;,&quot;clipPath&quot;:&quot;&quot;,&quot;clipRule&quot;:&quot;&quot;,&quot;color&quot;:&quot;&quot;,&quot;colorInterpolation&quot;:&quot;&quot;,&quot;colorInterpolationFilters&quot;:&quot;&quot;,&quot;colorRendering&quot;:&quot;&quot;,&quot;colorScheme&quot;:&quot;&quot;,&quot;columnCount&quot;:&quot;&quot;,&quot;columnFill&quot;:&quot;&quot;,&quot;columnGap&quot;:&quot;&quot;,&quot;columnRule&quot;:&quot;&quot;,&quot;columnRuleColor&quot;:&quot;&quot;,&quot;columnRuleStyle&quot;:&quot;&quot;,&quot;columnRuleWidth&quot;:&quot;&quot;,&quot;columnSpan&quot;:&quot;&quot;,&quot;columnWidth&quot;:&quot;&quot;,&quot;columns&quot;:&quot;&quot;,&quot;contain&quot;:&quot;&quot;,&quot;containIntrinsicBlockSize&quot;:&quot;&quot;,&quot;containIntrinsicHeight&quot;:&quot;&quot;,&quot;containIntrinsicInlineSize&quot;:&quot;&quot;,&quot;containIntrinsicSize&quot;:&quot;&quot;,&quot;containIntrinsicWidth&quot;:&quot;&quot;,&quot;content&quot;:&quot;&quot;,&quot;contentVisibility&quot;:&quot;&quot;,&quot;counterIncrement&quot;:&quot;&quot;,&quot;counterReset&quot;:&quot;&quot;,&quot;counterSet&quot;:&quot;&quot;,&quot;cursor&quot;:&quot;&quot;,&quot;cx&quot;:&quot;&quot;,&quot;cy&quot;:&quot;&quot;,&quot;d&quot;:&quot;&quot;,&quot;descentOverride&quot;:&quot;&quot;,&quot;direction&quot;:&quot;&quot;,&quot;display&quot;:&quot;&quot;,&quot;dominantBaseline&quot;:&quot;&quot;,&quot;emptyCells&quot;:&quot;&quot;,&quot;fallback&quot;:&quot;&quot;,&quot;fill&quot;:&quot;&quot;,&quot;fillOpacity&quot;:&quot;&quot;,&quot;fillRule&quot;:&quot;&quot;,&quot;filter&quot;:&quot;&quot;,&quot;flex&quot;:&quot;&quot;,&quot;flexBasis&quot;:&quot;&quot;,&quot;flexDirection&quot;:&quot;&quot;,&quot;flexFlow&quot;:&quot;&quot;,&quot;flexGrow&quot;:&quot;&quot;,&quot;flexShrink&quot;:&quot;&quot;,&quot;flexWrap&quot;:&quot;&quot;,&quot;float&quot;:&quot;&quot;,&quot;floodColor&quot;:&quot;&quot;,&quot;floodOpacity&quot;:&quot;&quot;,&quot;font&quot;:&quot;&quot;,&quot;fontDisplay&quot;:&quot;&quot;,&quot;fontFamily&quot;:&quot;&quot;,&quot;fontFeatureSettings&quot;:&quot;&quot;,&quot;fontKerning&quot;:&quot;&quot;,&quot;fontOpticalSizing&quot;:&quot;&quot;,&quot;fontSize&quot;:&quot;&quot;,&quot;fontStretch&quot;:&quot;&quot;,&quot;fontStyle&quot;:&quot;&quot;,&quot;fontVariant&quot;:&quot;&quot;,&quot;fontVariantCaps&quot;:&quot;&quot;,&quot;fontVariantEastAsian&quot;:&quot;&quot;,&quot;fontVariantLigatures&quot;:&quot;&quot;,&quot;fontVariantNumeric&quot;:&quot;&quot;,&quot;fontVariationSettings&quot;:&quot;&quot;,&quot;fontWeight&quot;:&quot;&quot;,&quot;forcedColorAdjust&quot;:&quot;&quot;,&quot;gap&quot;:&quot;&quot;,&quot;grid&quot;:&quot;&quot;,&quot;gridArea&quot;:&quot;&quot;,&quot;gridAutoColumns&quot;:&quot;&quot;,&quot;gridAutoFlow&quot;:&quot;&quot;,&quot;gridAutoRows&quot;:&quot;&quot;,&quot;gridColumn&quot;:&quot;&quot;,&quot;gridColumnEnd&quot;:&quot;&quot;,&quot;gridColumnGap&quot;:&quot;&quot;,&quot;gridColumnStart&quot;:&quot;&quot;,&quot;gridGap&quot;:&quot;&quot;,&quot;gridRow&quot;:&quot;&quot;,&quot;gridRowEnd&quot;:&quot;&quot;,&quot;gridRowGap&quot;:&quot;&quot;,&quot;gridRowStart&quot;:&quot;&quot;,&quot;gridTemplate&quot;:&quot;&quot;,&quot;gridTemplateAreas&quot;:&quot;&quot;,&quot;gridTemplateColumns&quot;:&quot;&quot;,&quot;gridTemplateRows&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;,&quot;hyphens&quot;:&quot;&quot;,&quot;imageOrientation&quot;:&quot;&quot;,&quot;imageRendering&quot;:&quot;&quot;,&quot;inherits&quot;:&quot;&quot;,&quot;initialValue&quot;:&quot;&quot;,&quot;inlineSize&quot;:&quot;&quot;,&quot;inset&quot;:&quot;&quot;,&quot;insetBlock&quot;:&quot;&quot;,&quot;insetBlockEnd&quot;:&quot;&quot;,&quot;insetBlockStart&quot;:&quot;&quot;,&quot;insetInline&quot;:&quot;&quot;,&quot;insetInlineEnd&quot;:&quot;&quot;,&quot;insetInlineStart&quot;:&quot;&quot;,&quot;isolation&quot;:&quot;&quot;,&quot;justifyContent&quot;:&quot;&quot;,&quot;justifyItems&quot;:&quot;&quot;,&quot;justifySelf&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;letterSpacing&quot;:&quot;&quot;,&quot;lightingColor&quot;:&quot;&quot;,&quot;lineBreak&quot;:&quot;&quot;,&quot;lineGapOverride&quot;:&quot;&quot;,&quot;lineHeight&quot;:&quot;&quot;,&quot;listStyle&quot;:&quot;&quot;,&quot;listStyleImage&quot;:&quot;&quot;,&quot;listStylePosition&quot;:&quot;&quot;,&quot;listStyleType&quot;:&quot;&quot;,&quot;margin&quot;:&quot;&quot;,&quot;marginBlock&quot;:&quot;&quot;,&quot;marginBlockEnd&quot;:&quot;&quot;,&quot;marginBlockStart&quot;:&quot;&quot;,&quot;marginBottom&quot;:&quot;&quot;,&quot;marginInline&quot;:&quot;&quot;,&quot;marginInlineEnd&quot;:&quot;&quot;,&quot;marginInlineStart&quot;:&quot;&quot;,&quot;marginLeft&quot;:&quot;&quot;,&quot;marginRight&quot;:&quot;&quot;,&quot;marginTop&quot;:&quot;&quot;,&quot;marker&quot;:&quot;&quot;,&quot;markerEnd&quot;:&quot;&quot;,&quot;markerMid&quot;:&quot;&quot;,&quot;markerStart&quot;:&quot;&quot;,&quot;mask&quot;:&quot;&quot;,&quot;maskType&quot;:&quot;&quot;,&quot;maxBlockSize&quot;:&quot;&quot;,&quot;maxHeight&quot;:&quot;&quot;,&quot;maxInlineSize&quot;:&quot;&quot;,&quot;maxWidth&quot;:&quot;&quot;,&quot;maxZoom&quot;:&quot;&quot;,&quot;minBlockSize&quot;:&quot;&quot;,&quot;minHeight&quot;:&quot;&quot;,&quot;minInlineSize&quot;:&quot;&quot;,&quot;minWidth&quot;:&quot;&quot;,&quot;minZoom&quot;:&quot;&quot;,&quot;mixBlendMode&quot;:&quot;&quot;,&quot;negative&quot;:&quot;&quot;,&quot;objectFit&quot;:&quot;&quot;,&quot;objectPosition&quot;:&quot;&quot;,&quot;offset&quot;:&quot;&quot;,&quot;offsetDistance&quot;:&quot;&quot;,&quot;offsetPath&quot;:&quot;&quot;,&quot;offsetRotate&quot;:&quot;&quot;,&quot;opacity&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;&quot;,&quot;orphans&quot;:&quot;&quot;,&quot;outline&quot;:&quot;&quot;,&quot;outlineColor&quot;:&quot;&quot;,&quot;outlineOffset&quot;:&quot;&quot;,&quot;outlineStyle&quot;:&quot;&quot;,&quot;outlineWidth&quot;:&quot;&quot;,&quot;overflow&quot;:&quot;&quot;,&quot;overflowAnchor&quot;:&quot;&quot;,&quot;overflowClipMargin&quot;:&quot;&quot;,&quot;overflowWrap&quot;:&quot;&quot;,&quot;overflowX&quot;:&quot;&quot;,&quot;overflowY&quot;:&quot;&quot;,&quot;overscrollBehavior&quot;:&quot;&quot;,&quot;overscrollBehaviorBlock&quot;:&quot;&quot;,&quot;overscrollBehaviorInline&quot;:&quot;&quot;,&quot;overscrollBehaviorX&quot;:&quot;&quot;,&quot;overscrollBehaviorY&quot;:&quot;&quot;,&quot;pad&quot;:&quot;&quot;,&quot;padding&quot;:&quot;&quot;,&quot;paddingBlock&quot;:&quot;&quot;,&quot;paddingBlockEnd&quot;:&quot;&quot;,&quot;paddingBlockStart&quot;:&quot;&quot;,&quot;paddingBottom&quot;:&quot;&quot;,&quot;paddingInline&quot;:&quot;&quot;,&quot;paddingInlineEnd&quot;:&quot;&quot;,&quot;paddingInlineStart&quot;:&quot;&quot;,&quot;paddingLeft&quot;:&quot;&quot;,&quot;paddingRight&quot;:&quot;&quot;,&quot;paddingTop&quot;:&quot;&quot;,&quot;page&quot;:&quot;&quot;,&quot;pageBreakAfter&quot;:&quot;&quot;,&quot;pageBreakBefore&quot;:&quot;&quot;,&quot;pageBreakInside&quot;:&quot;&quot;,&quot;pageOrientation&quot;:&quot;&quot;,&quot;paintOrder&quot;:&quot;&quot;,&quot;perspective&quot;:&quot;&quot;,&quot;perspectiveOrigin&quot;:&quot;&quot;,&quot;placeContent&quot;:&quot;&quot;,&quot;placeItems&quot;:&quot;&quot;,&quot;placeSelf&quot;:&quot;&quot;,&quot;pointerEvents&quot;:&quot;&quot;,&quot;position&quot;:&quot;&quot;,&quot;prefix&quot;:&quot;&quot;,&quot;quotes&quot;:&quot;&quot;,&quot;r&quot;:&quot;&quot;,&quot;range&quot;:&quot;&quot;,&quot;resize&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;rowGap&quot;:&quot;&quot;,&quot;rubyPosition&quot;:&quot;&quot;,&quot;rx&quot;:&quot;&quot;,&quot;ry&quot;:&quot;&quot;,&quot;scrollBehavior&quot;:&quot;&quot;,&quot;scrollMargin&quot;:&quot;&quot;,&quot;scrollMarginBlock&quot;:&quot;&quot;,&quot;scrollMarginBlockEnd&quot;:&quot;&quot;,&quot;scrollMarginBlockStart&quot;:&quot;&quot;,&quot;scrollMarginBottom&quot;:&quot;&quot;,&quot;scrollMarginInline&quot;:&quot;&quot;,&quot;scrollMarginInlineEnd&quot;:&quot;&quot;,&quot;scrollMarginInlineStart&quot;:&quot;&quot;,&quot;scrollMarginLeft&quot;:&quot;&quot;,&quot;scrollMarginRight&quot;:&quot;&quot;,&quot;scrollMarginTop&quot;:&quot;&quot;,&quot;scrollPadding&quot;:&quot;&quot;,&quot;scrollPaddingBlock&quot;:&quot;&quot;,&quot;scrollPaddingBlockEnd&quot;:&quot;&quot;,&quot;scrollPaddingBlockStart&quot;:&quot;&quot;,&quot;scrollPaddingBottom&quot;:&quot;&quot;,&quot;scrollPaddingInline&quot;:&quot;&quot;,&quot;scrollPaddingInlineEnd&quot;:&quot;&quot;,&quot;scrollPaddingInlineStart&quot;:&quot;&quot;,&quot;scrollPaddingLeft&quot;:&quot;&quot;,&quot;scrollPaddingRight&quot;:&quot;&quot;,&quot;scrollPaddingTop&quot;:&quot;&quot;,&quot;scrollSnapAlign&quot;:&quot;&quot;,&quot;scrollSnapStop&quot;:&quot;&quot;,&quot;scrollSnapType&quot;:&quot;&quot;,&quot;scrollbarGutter&quot;:&quot;&quot;,&quot;shapeImageThreshold&quot;:&quot;&quot;,&quot;shapeMargin&quot;:&quot;&quot;,&quot;shapeOutside&quot;:&quot;&quot;,&quot;shapeRendering&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizeAdjust&quot;:&quot;&quot;,&quot;speak&quot;:&quot;&quot;,&quot;speakAs&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;stopColor&quot;:&quot;&quot;,&quot;stopOpacity&quot;:&quot;&quot;,&quot;stroke&quot;:&quot;&quot;,&quot;strokeDasharray&quot;:&quot;&quot;,&quot;strokeDashoffset&quot;:&quot;&quot;,&quot;strokeLinecap&quot;:&quot;&quot;,&quot;strokeLinejoin&quot;:&quot;&quot;,&quot;strokeMiterlimit&quot;:&quot;&quot;,&quot;strokeOpacity&quot;:&quot;&quot;,&quot;strokeWidth&quot;:&quot;&quot;,&quot;suffix&quot;:&quot;&quot;,&quot;symbols&quot;:&quot;&quot;,&quot;syntax&quot;:&quot;&quot;,&quot;system&quot;:&quot;&quot;,&quot;tabSize&quot;:&quot;&quot;,&quot;tableLayout&quot;:&quot;&quot;,&quot;textAlign&quot;:&quot;&quot;,&quot;textAlignLast&quot;:&quot;&quot;,&quot;textAnchor&quot;:&quot;&quot;,&quot;textCombineUpright&quot;:&quot;&quot;,&quot;textDecoration&quot;:&quot;&quot;,&quot;textDecorationColor&quot;:&quot;&quot;,&quot;textDecorationLine&quot;:&quot;&quot;,&quot;textDecorationSkipInk&quot;:&quot;&quot;,&quot;textDecorationStyle&quot;:&quot;&quot;,&quot;textDecorationThickness&quot;:&quot;&quot;,&quot;textIndent&quot;:&quot;&quot;,&quot;textOrientation&quot;:&quot;&quot;,&quot;textOverflow&quot;:&quot;&quot;,&quot;textRendering&quot;:&quot;&quot;,&quot;textShadow&quot;:&quot;&quot;,&quot;textSizeAdjust&quot;:&quot;&quot;,&quot;textTransform&quot;:&quot;&quot;,&quot;textUnderlineOffset&quot;:&quot;&quot;,&quot;textUnderlinePosition&quot;:&quot;&quot;,&quot;top&quot;:&quot;&quot;,&quot;touchAction&quot;:&quot;&quot;,&quot;transform&quot;:&quot;&quot;,&quot;transformBox&quot;:&quot;&quot;,&quot;transformOrigin&quot;:&quot;&quot;,&quot;transformStyle&quot;:&quot;&quot;,&quot;transition&quot;:&quot;&quot;,&quot;transitionDelay&quot;:&quot;&quot;,&quot;transitionDuration&quot;:&quot;&quot;,&quot;transitionProperty&quot;:&quot;&quot;,&quot;transitionTimingFunction&quot;:&quot;&quot;,&quot;unicodeBidi&quot;:&quot;&quot;,&quot;unicodeRange&quot;:&quot;&quot;,&quot;userSelect&quot;:&quot;&quot;,&quot;userZoom&quot;:&quot;&quot;,&quot;vectorEffect&quot;:&quot;&quot;,&quot;verticalAlign&quot;:&quot;&quot;,&quot;visibility&quot;:&quot;&quot;,&quot;webkitAlignContent&quot;:&quot;&quot;,&quot;webkitAlignItems&quot;:&quot;&quot;,&quot;webkitAlignSelf&quot;:&quot;&quot;,&quot;webkitAnimation&quot;:&quot;&quot;,&quot;webkitAnimationDelay&quot;:&quot;&quot;,&quot;webkitAnimationDirection&quot;:&quot;&quot;,&quot;webkitAnimationDuration&quot;:&quot;&quot;,&quot;webkitAnimationFillMode&quot;:&quot;&quot;,&quot;webkitAnimationIterationCount&quot;:&quot;&quot;,&quot;webkitAnimationName&quot;:&quot;&quot;,&quot;webkitAnimationPlayState&quot;:&quot;&quot;,&quot;webkitAnimationTimingFunction&quot;:&quot;&quot;,&quot;webkitAppRegion&quot;:&quot;&quot;,&quot;webkitAppearance&quot;:&quot;&quot;,&quot;webkitBackfaceVisibility&quot;:&quot;&quot;,&quot;webkitBackgroundClip&quot;:&quot;&quot;,&quot;webkitBackgroundOrigin&quot;:&quot;&quot;,&quot;webkitBackgroundSize&quot;:&quot;&quot;,&quot;webkitBorderAfter&quot;:&quot;&quot;,&quot;webkitBorderAfterColor&quot;:&quot;&quot;,&quot;webkitBorderAfterStyle&quot;:&quot;&quot;,&quot;webkitBorderAfterWidth&quot;:&quot;&quot;,&quot;webkitBorderBefore&quot;:&quot;&quot;,&quot;webkitBorderBeforeColor&quot;:&quot;&quot;,&quot;webkitBorderBeforeStyle&quot;:&quot;&quot;,&quot;webkitBorderBeforeWidth&quot;:&quot;&quot;,&quot;webkitBorderBottomLeftRadius&quot;:&quot;&quot;,&quot;webkitBorderBottomRightRadius&quot;:&quot;&quot;,&quot;webkitBorderEnd&quot;:&quot;&quot;,&quot;webkitBorderEndColor&quot;:&quot;&quot;,&quot;webkitBorderEndStyle&quot;:&quot;&quot;,&quot;webkitBorderEndWidth&quot;:&quot;&quot;,&quot;webkitBorderHorizontalSpacing&quot;:&quot;&quot;,&quot;webkitBorderImage&quot;:&quot;&quot;,&quot;webkitBorderRadius&quot;:&quot;&quot;,&quot;webkitBorderStart&quot;:&quot;&quot;,&quot;webkitBorderStartColor&quot;:&quot;&quot;,&quot;webkitBorderStartStyle&quot;:&quot;&quot;,&quot;webkitBorderStartWidth&quot;:&quot;&quot;,&quot;webkitBorderTopLeftRadius&quot;:&quot;&quot;,&quot;webkitBorderTopRightRadius&quot;:&quot;&quot;,&quot;webkitBorderVerticalSpacing&quot;:&quot;&quot;,&quot;webkitBoxAlign&quot;:&quot;&quot;,&quot;webkitBoxDecorationBreak&quot;:&quot;&quot;,&quot;webkitBoxDirection&quot;:&quot;&quot;,&quot;webkitBoxFlex&quot;:&quot;&quot;,&quot;webkitBoxOrdinalGroup&quot;:&quot;&quot;,&quot;webkitBoxOrient&quot;:&quot;&quot;,&quot;webkitBoxPack&quot;:&quot;&quot;,&quot;webkitBoxReflect&quot;:&quot;&quot;,&quot;webkitBoxShadow&quot;:&quot;&quot;,&quot;webkitBoxSizing&quot;:&quot;&quot;,&quot;webkitClipPath&quot;:&quot;&quot;,&quot;webkitColumnBreakAfter&quot;:&quot;&quot;,&quot;webkitColumnBreakBefore&quot;:&quot;&quot;,&quot;webkitColumnBreakInside&quot;:&quot;&quot;,&quot;webkitColumnCount&quot;:&quot;&quot;,&quot;webkitColumnGap&quot;:&quot;&quot;,&quot;webkitColumnRule&quot;:&quot;&quot;,&quot;webkitColumnRuleColor&quot;:&quot;&quot;,&quot;webkitColumnRuleStyle&quot;:&quot;&quot;,&quot;webkitColumnRuleWidth&quot;:&quot;&quot;,&quot;webkitColumnSpan&quot;:&quot;&quot;,&quot;webkitColumnWidth&quot;:&quot;&quot;,&quot;webkitColumns&quot;:&quot;&quot;,&quot;webkitFilter&quot;:&quot;&quot;,&quot;webkitFlex&quot;:&quot;&quot;,&quot;webkitFlexBasis&quot;:&quot;&quot;,&quot;webkitFlexDirection&quot;:&quot;&quot;,&quot;webkitFlexFlow&quot;:&quot;&quot;,&quot;webkitFlexGrow&quot;:&quot;&quot;,&quot;webkitFlexShrink&quot;:&quot;&quot;,&quot;webkitFlexWrap&quot;:&quot;&quot;,&quot;webkitFontFeatureSettings&quot;:&quot;&quot;,&quot;webkitFontSmoothing&quot;:&quot;&quot;,&quot;webkitHighlight&quot;:&quot;&quot;,&quot;webkitHyphenateCharacter&quot;:&quot;&quot;,&quot;webkitJustifyContent&quot;:&quot;&quot;,&quot;webkitLineBreak&quot;:&quot;&quot;,&quot;webkitLineClamp&quot;:&quot;&quot;,&quot;webkitLocale&quot;:&quot;&quot;,&quot;webkitLogicalHeight&quot;:&quot;&quot;,&quot;webkitLogicalWidth&quot;:&quot;&quot;,&quot;webkitMarginAfter&quot;:&quot;&quot;,&quot;webkitMarginBefore&quot;:&quot;&quot;,&quot;webkitMarginEnd&quot;:&quot;&quot;,&quot;webkitMarginStart&quot;:&quot;&quot;,&quot;webkitMask&quot;:&quot;&quot;,&quot;webkitMaskBoxImage&quot;:&quot;&quot;,&quot;webkitMaskBoxImageOutset&quot;:&quot;&quot;,&quot;webkitMaskBoxImageRepeat&quot;:&quot;&quot;,&quot;webkitMaskBoxImageSlice&quot;:&quot;&quot;,&quot;webkitMaskBoxImageSource&quot;:&quot;&quot;,&quot;webkitMaskBoxImageWidth&quot;:&quot;&quot;,&quot;webkitMaskClip&quot;:&quot;&quot;,&quot;webkitMaskComposite&quot;:&quot;&quot;,&quot;webkitMaskImage&quot;:&quot;&quot;,&quot;webkitMaskOrigin&quot;:&quot;&quot;,&quot;webkitMaskPosition&quot;:&quot;&quot;,&quot;webkitMaskPositionX&quot;:&quot;&quot;,&quot;webkitMaskPositionY&quot;:&quot;&quot;,&quot;webkitMaskRepeat&quot;:&quot;&quot;,&quot;webkitMaskRepeatX&quot;:&quot;&quot;,&quot;webkitMaskRepeatY&quot;:&quot;&quot;,&quot;webkitMaskSize&quot;:&quot;&quot;,&quot;webkitMaxLogicalHeight&quot;:&quot;&quot;,&quot;webkitMaxLogicalWidth&quot;:&quot;&quot;,&quot;webkitMinLogicalHeight&quot;:&quot;&quot;,&quot;webkitMinLogicalWidth&quot;:&quot;&quot;,&quot;webkitOpacity&quot;:&quot;&quot;,&quot;webkitOrder&quot;:&quot;&quot;,&quot;webkitPaddingAfter&quot;:&quot;&quot;,&quot;webkitPaddingBefore&quot;:&quot;&quot;,&quot;webkitPaddingEnd&quot;:&quot;&quot;,&quot;webkitPaddingStart&quot;:&quot;&quot;,&quot;webkitPerspective&quot;:&quot;&quot;,&quot;webkitPerspectiveOrigin&quot;:&quot;&quot;,&quot;webkitPerspectiveOriginX&quot;:&quot;&quot;,&quot;webkitPerspectiveOriginY&quot;:&quot;&quot;,&quot;webkitPrintColorAdjust&quot;:&quot;&quot;,&quot;webkitRtlOrdering&quot;:&quot;&quot;,&quot;webkitRubyPosition&quot;:&quot;&quot;,&quot;webkitShapeImageThreshold&quot;:&quot;&quot;,&quot;webkitShapeMargin&quot;:&quot;&quot;,&quot;webkitShapeOutside&quot;:&quot;&quot;,&quot;webkitTapHighlightColor&quot;:&quot;&quot;,&quot;webkitTextCombine&quot;:&quot;&quot;,&quot;webkitTextDecorationsInEffect&quot;:&quot;&quot;,&quot;webkitTextEmphasis&quot;:&quot;&quot;,&quot;webkitTextEmphasisColor&quot;:&quot;&quot;,&quot;webkitTextEmphasisPosition&quot;:&quot;&quot;,&quot;webkitTextEmphasisStyle&quot;:&quot;&quot;,&quot;webkitTextFillColor&quot;:&quot;&quot;,&quot;webkitTextOrientation&quot;:&quot;&quot;,&quot;webkitTextSecurity&quot;:&quot;&quot;,&quot;webkitTextSizeAdjust&quot;:&quot;&quot;,&quot;webkitTextStroke&quot;:&quot;&quot;,&quot;webkitTextStrokeColor&quot;:&quot;&quot;,&quot;webkitTextStrokeWidth&quot;:&quot;&quot;,&quot;webkitTransform&quot;:&quot;&quot;,&quot;webkitTransformOrigin&quot;:&quot;&quot;,&quot;webkitTransformOriginX&quot;:&quot;&quot;,&quot;webkitTransformOriginY&quot;:&quot;&quot;,&quot;webkitTransformOriginZ&quot;:&quot;&quot;,&quot;webkitTransformStyle&quot;:&quot;&quot;,&quot;webkitTransition&quot;:&quot;&quot;,&quot;webkitTransitionDelay&quot;:&quot;&quot;,&quot;webkitTransitionDuration&quot;:&quot;&quot;,&quot;webkitTransitionProperty&quot;:&quot;&quot;,&quot;webkitTransitionTimingFunction&quot;:&quot;&quot;,&quot;webkitUserDrag&quot;:&quot;&quot;,&quot;webkitUserModify&quot;:&quot;&quot;,&quot;webkitUserSelect&quot;:&quot;&quot;,&quot;webkitWritingMode&quot;:&quot;&quot;,&quot;whiteSpace&quot;:&quot;&quot;,&quot;widows&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;willChange&quot;:&quot;&quot;,&quot;wordBreak&quot;:&quot;&quot;,&quot;wordSpacing&quot;:&quot;&quot;,&quot;wordWrap&quot;:&quot;&quot;,&quot;writingMode&quot;:&quot;&quot;,&quot;x&quot;:&quot;&quot;,&quot;y&quot;:&quot;&quot;,&quot;zIndex&quot;:&quot;&quot;,&quot;zoom&quot;:&quot;&quot;}" />
+          </attribute>
+          <attribute name="wTabIndex">
+            <ProcessValue datatype="number" value="-1" />
+          </attribute>
+          <attribute name="wInputType">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wAccessKey">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wInnerText">
+            <ProcessValue datatype="text" value="Пример - это" />
+          </attribute>
+          <attribute name="wSource">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wTargetAddress">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wAlt">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wPattern">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wRel">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wLinkTarget">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="wPlaceholder">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+        </attributes>
+      </element>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>BrowserLaunch</id>
+      <parameters>
+        <parameter>
+          <name>Path</name>
+          <value>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</value>
+        </parameter>
+        <parameter>
+          <name>CommandLineParams</name>
+          <value>https://translate.yandex.ru/</value>
+        </parameter>
+        <parameter>
+          <name>ProcessMode</name>
+          <value>Internal</value>
+        </parameter>
+        <parameter>
+          <name>ExternalProcessTimeout</name>
+          <value>0</value>
+        </parameter>
+      </parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <subsheet subsheetid="771b66f8-a7f8-4234-8550-2d9ffc1927e0" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="a77c0f4e-1e76-4359-9abf-1d4eed639449" type="Normal" published="True">
+    <name>Translate</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>20</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="d5148c65-d54c-45da-9653-d9cdf17e8d8b" type="Normal" published="True">
+    <name>Terminate</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="0e13bef1-43e1-4809-ba6e-b66f6e81b63c" type="Normal" published="True">
+    <name>Launch</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="e67e804b-b6d3-4a42-87e4-60d9644a9bf6" type="Normal" published="True">
+    <name>Detach</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="70f8b7e1-9679-4978-b173-aa43803056f9" name="Start" type="Start">
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>21d5bdfe-e2b8-4b98-b8f8-3ffc742e69da</onsuccess>
+  </stage>
+  <stage stageid="21d5bdfe-e2b8-4b98-b8f8-3ffc742e69da" name="End" type="End">
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="28c52af3-0cf6-446a-bdb3-dd3803781a9c" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+    <references>
+      <reference>System.dll</reference>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+      <import>System.Data</import>
+    </imports>
+    <language>visualbasic</language>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="811dea5b-433c-47d4-b02d-69b545256c9a" name="Clean Up" type="SubSheetInfo">
+    <subsheetid>771b66f8-a7f8-4234-8550-2d9ffc1927e0</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="da17d01c-6b9a-495a-9dd0-a6f8a808ba88" name="Start" type="Start">
+    <subsheetid>771b66f8-a7f8-4234-8550-2d9ffc1927e0</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>17498704-a8b6-4c64-b964-e248d3ac6917</onsuccess>
+  </stage>
+  <stage stageid="17498704-a8b6-4c64-b964-e248d3ac6917" name="End" type="End">
+    <subsheetid>771b66f8-a7f8-4234-8550-2d9ffc1927e0</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="14530b09-ff6f-42a4-a243-b2e71497774f" name="Translate" type="SubSheetInfo">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <display x="-450" y="-165" w="150" h="90" />
+  </stage>
+  <stage stageid="51a4d259-5681-4563-adfb-c69eac1bed6c" name="Start" type="Start">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="15" y="-330" />
+    <inputs>
+      <input type="text" name="Input_text" stage="Input" />
+      <input type="text" name="From what lang?" stage="From" />
+      <input type="text" name="To what lang?" stage="To" />
+    </inputs>
+    <onsuccess>fefad03c-3d9e-48f8-96d4-21f4405f4150</onsuccess>
+  </stage>
+  <stage stageid="ee022b98-ece8-4357-86a7-fff4b860a930" name="End" type="End">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="15" y="345" />
+    <outputs>
+      <output type="text" name="Output_text" stage="Output" />
+    </outputs>
+  </stage>
+  <stage stageid="21c4732e-83d4-4a02-918a-e9be9f681acf" name="" type="Note">
+    <subsheetid>771b66f8-a7f8-4234-8550-2d9ffc1927e0</subsheetid>
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="97d8e2ba-7c7d-4d3a-b901-49a97f2c9dfd" name="" type="Note">
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="e0e32678-f3f3-4e2a-820f-47d995f3fec6" name="Reader1" type="Read">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="15" y="285" />
+    <onsuccess>ee022b98-ece8-4357-86a7-fff4b860a930</onsuccess>
+    <step stage="Output">
+      <element id="70c125b6-5a54-494f-b911-c2baf589a3b1" />
+      <action>
+        <id>WebGetText</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="eb859710-d33b-4999-b9f3-5f0e9d0c8ee0" name="Output" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="195" y="105" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="75fe21de-c6b6-4b3e-b9a5-b5ff2862a986" name="Launch" type="SubSheetInfo">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="be2c9472-9ae7-4484-aea0-25e8286c0236" name="Start" type="Start">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="15" y="-165" />
+    <onsuccess>52ef5bab-c465-451f-b172-8fc1eb6eeac7</onsuccess>
+  </stage>
+  <stage stageid="0a98fb88-2806-4fa4-bf95-43fe416ef17c" name="End" type="End">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="15" y="75" />
+  </stage>
+  <stage stageid="9ab83c8e-19fc-4877-8a48-10bc23ee1649" name="Launch" type="Navigate">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="-45" y="-15" />
+    <onsuccess>0a98fb88-2806-4fa4-bf95-43fe416ef17c</onsuccess>
+    <step>
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>Launch</id>
+        <arguments>
+          <argument>
+            <id>Path</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>CommandLineParams</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>ProcessMode</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+        <outputs>
+          <output>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </output>
+        </outputs>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="40bd76ba-16eb-446a-8bfc-eb242119730b" name="Decision1" type="Decision">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="15" y="-75" />
+    <decision expression="[IsLaunched_flag]" />
+    <ontrue>21635282-aad5-453e-bdcf-e4d76271a44d</ontrue>
+    <onfalse>9ab83c8e-19fc-4877-8a48-10bc23ee1649</onfalse>
+  </stage>
+  <stage stageid="436237c9-3d52-466b-8f8c-81188875728f" name="IsLaunched_flag" type="Data">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="240" y="-180" w="90" h="60" />
+    <datatype>flag</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="52ef5bab-c465-451f-b172-8fc1eb6eeac7" name="IsLaunched" type="Read">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="15" y="-120" />
+    <onsuccess>40bd76ba-16eb-446a-8bfc-eb242119730b</onsuccess>
+    <step stage="IsLaunched_flag">
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>WebIsConnected</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="21635282-aad5-453e-bdcf-e4d76271a44d" name="Detach" type="Navigate">
+    <subsheetid>0e13bef1-43e1-4809-ba6e-b66f6e81b63c</subsheetid>
+    <loginhibit />
+    <display x="75" y="-15" />
+    <onsuccess>9ab83c8e-19fc-4877-8a48-10bc23ee1649</onsuccess>
+    <step>
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>WebDetachApplication</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="cdd09032-d5d3-428b-947c-7d8286ef0081" name="Detach" type="SubSheetInfo">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="1054169e-aad9-4994-96e0-995bdbee4889" name="Start" type="Start">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <loginhibit />
+    <display x="30" y="-105" />
+    <onsuccess>553116ad-cc58-4c7a-b106-9f63d9d0d5a8</onsuccess>
+  </stage>
+  <stage stageid="165da3df-85c7-4aa2-a8f8-8d7ff136c729" name="End" type="End">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <loginhibit />
+    <display x="30" y="135" />
+  </stage>
+  <stage stageid="634756a7-ee36-46b3-95f6-fac627d8b9fe" name="Detach" type="Navigate">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <loginhibit />
+    <display x="-45" y="30" />
+    <onsuccess>165da3df-85c7-4aa2-a8f8-8d7ff136c729</onsuccess>
+    <step>
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>WebDetachApplication</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="67ef9434-ea8b-4561-8c24-dd82415e212e" name="Decision1" type="Decision">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <loginhibit />
+    <display x="30" y="30" />
+    <decision expression="[IsConnected_flag]" />
+    <ontrue>634756a7-ee36-46b3-95f6-fac627d8b9fe</ontrue>
+    <onfalse>165da3df-85c7-4aa2-a8f8-8d7ff136c729</onfalse>
+  </stage>
+  <stage stageid="941885bf-6185-4494-b267-ed553e4694e1" name="IsConnected_flag" type="Data">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <loginhibit />
+    <display x="360" y="-90" w="90" h="60" />
+    <datatype>flag</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="553116ad-cc58-4c7a-b106-9f63d9d0d5a8" name="IsConnected" type="Read">
+    <subsheetid>e67e804b-b6d3-4a42-87e4-60d9644a9bf6</subsheetid>
+    <loginhibit />
+    <display x="30" y="-30" />
+    <onsuccess>67ef9434-ea8b-4561-8c24-dd82415e212e</onsuccess>
+    <step stage="IsConnected_flag">
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>WebIsConnected</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="bc41e088-361b-4b0f-8c74-d71030386de8" name="Navigate3" type="Navigate" interval="0.5">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="15" y="120" />
+    <onsuccess>651e1923-790d-404a-9c41-56f74f8a75f4</onsuccess>
+    <step>
+      <element id="79222943-6257-4184-a214-18093af5b922" />
+      <action>
+        <id>UIASendKeys</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>"{DELETE}"</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="79222943-6257-4184-a214-18093af5b922" />
+      <action>
+        <id>UIASendKeys</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>"{ENTER}"</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="94eab50d-be56-4e76-8a6b-bcf82c1292e9" name="Writer1" type="Write">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="15" y="60" />
+    <onsuccess>bc41e088-361b-4b0f-8c74-d71030386de8</onsuccess>
+    <step expr="[Final_URL]">
+      <element id="79222943-6257-4184-a214-18093af5b922" />
+    </step>
+  </stage>
+  <stage stageid="9fa1ffd7-e3a5-4956-bb72-539e101a9a63" name="Time Out1" type="WaitEnd">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="75" y="225" w="30" h="30" />
+    <groupid>5b6013dc-8c19-44f4-a1c8-494b2bd210ce</groupid>
+  </stage>
+  <stage stageid="651e1923-790d-404a-9c41-56f74f8a75f4" name="Wait1" type="WaitStart">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-45" y="225" w="30" h="30" />
+    <groupid>5b6013dc-8c19-44f4-a1c8-494b2bd210ce</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Right_box Check Exists</name>
+        <distance>60</distance>
+        <ontrue>e0e32678-f3f3-4e2a-820f-47d995f3fec6</ontrue>
+        <element id="70c125b6-5a54-494f-b911-c2baf589a3b1" />
+        <condition>
+          <id>WebCheckExists</id>
+          <arguments>
+            <argument>
+              <id>trackingid</id>
+              <value>
+              </value>
+            </argument>
+          </arguments>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="dd05835e-799c-4f90-94e1-a9829e1b6093" name="URL" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-240" y="-225" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">https://translate.yandex.ru/</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="adae91a0-655c-457f-97d7-63c72cf02b2d" name="Lang" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-240" y="-150" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">?lang=</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="48928125-047e-437a-83e7-a2e5fb12efeb" name="Text" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-240" y="-75" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">&amp;text=</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="cb2c0976-1c1c-464f-9458-aef9a8568f91" name="Input" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="195" y="-165" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">Example is it</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="fefad03c-3d9e-48f8-96d4-21f4405f4150" name="Multi1" type="MultipleCalculation">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="15" y="-150" w="150" h="120" />
+    <onsuccess>8b9be7f6-9c91-4124-8d2b-92977d020c22</onsuccess>
+    <steps>
+      <calculation expression="[From]&amp;&quot;-&quot;&amp;[To]" stage="Input_Lang" />
+      <calculation expression="([URL]&amp;([Lang]&amp;[Input_Lang])&amp;[Text])&amp;[Input]" stage="Final_URL" />
+    </steps>
+  </stage>
+  <stage stageid="2c95c350-d52f-4aad-b037-8cfa3e006351" name="Final_URL" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-240" y="-300" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="e59e3c0a-9393-4381-8742-d78e4819e0b9" name="Input_Lang" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="195" y="-15" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="2cb1f605-781c-463d-9ac3-eae7020253eb" name="From" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <display x="195" y="-240" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">en</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="b2ad1aa0-1ed8-4918-ad5f-bb939ccf155b" name="To" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <display x="195" y="-315" w="90" h="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">ru</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="fee292d7-3d25-4800-b010-065a20b43907" name="Time Out2" type="WaitEnd">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="75" y="-15" w="30" h="30" />
+    <groupid>1fe470e2-a4b0-403d-8128-e44c91f06fe9</groupid>
+  </stage>
+  <stage stageid="8b9be7f6-9c91-4124-8d2b-92977d020c22" name="Wait2" type="WaitStart">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-45" y="-15" w="30" h="30" />
+    <groupid>1fe470e2-a4b0-403d-8128-e44c91f06fe9</groupid>
+    <choices>
+      <choice reply="True">
+        <name>URL Check Exists</name>
+        <distance>60</distance>
+        <ontrue>94eab50d-be56-4e76-8a6b-bcf82c1292e9</ontrue>
+        <element id="79222943-6257-4184-a214-18093af5b922" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="4bf96280-c78c-430d-941f-6dd4c46df691" name="Translater" type="Block">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-120" y="-270" w="240" h="570" />
+    <font family="Segoe UI" size="10" style="Regular" color="7FB2E5" />
+  </stage>
+  <stage stageid="7e574a51-3509-4eeb-90b5-c6fda6a89790" name="Recover1" type="Recover">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-90" y="285" />
+    <onsuccess>31e54221-d80e-4f5b-8ad2-6ffb72b7d1ba</onsuccess>
+  </stage>
+  <stage stageid="31e54221-d80e-4f5b-8ad2-6ffb72b7d1ba" name="Calc1" type="Calculation">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-90" y="330" />
+    <onsuccess>5642c3a4-5cd2-47f5-9c98-1b8655eb303e</onsuccess>
+    <calculation expression="" stage="EX" />
+  </stage>
+  <stage stageid="5642c3a4-5cd2-47f5-9c98-1b8655eb303e" name="Resume1" type="Resume">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-180" y="330" />
+    <onsuccess>7f12707e-4231-4d93-92f1-b210fc1d6587</onsuccess>
+  </stage>
+  <stage stageid="7f12707e-4231-4d93-92f1-b210fc1d6587" name="Exeption_translater" type="Exception">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <display x="-180" y="285" />
+    <exception localized="yes" type="Exeption_translater" detail="Exeption_translater" />
+  </stage>
+  <stage stageid="bc4ce23a-d8b4-4977-9ff5-96d20493aee9" name="EX" type="Data">
+    <subsheetid>a77c0f4e-1e76-4359-9abf-1d4eed639449</subsheetid>
+    <loginhibit />
+    <display x="-90" y="375" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="83fee2e0-fb78-4ffb-a20e-7561df59442d" name="Terminate" type="SubSheetInfo">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="140ff7ae-9af5-4924-9de3-349d80e4367c" name="Start" type="Start">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="30" y="-150" />
+    <onsuccess>d1493494-c6d6-4a0b-90d9-ae65e84e00ab</onsuccess>
+  </stage>
+  <stage stageid="e9b3d1d5-bc9a-45bb-ac5f-175538d468d0" name="End" type="End">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="30" y="90" />
+  </stage>
+  <stage stageid="6c248542-7444-49e8-8726-8511ccda617d" name="Terminate" type="Navigate">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="-45" y="-15" />
+    <onsuccess>e9b3d1d5-bc9a-45bb-ac5f-175538d468d0</onsuccess>
+    <step>
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>WebCloseApplication</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="96fc12ed-e4e3-4608-8d1a-44eab5dced27" name="Decision1" type="Decision">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="30" y="-15" />
+    <decision expression="[IsConnected_flag]" />
+    <ontrue>6c248542-7444-49e8-8726-8511ccda617d</ontrue>
+    <onfalse>e9b3d1d5-bc9a-45bb-ac5f-175538d468d0</onfalse>
+  </stage>
+  <stage stageid="80b1e210-56db-4b28-93c9-99bd37cb5ee2" name="IsConnected_flag" type="Data">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="405" y="-90" w="90" h="60" />
+    <datatype>flag</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="d1493494-c6d6-4a0b-90d9-ae65e84e00ab" name="IsConnected" type="Read">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="30" y="-75" />
+    <onsuccess>96fc12ed-e4e3-4608-8d1a-44eab5dced27</onsuccess>
+    <step stage="IsConnected_flag">
+      <element id="31799423-63e1-42c8-bfcc-d1149158b7e4" />
+      <action>
+        <id>WebIsConnected</id>
+        <arguments>
+          <argument>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="5f493bc2-aac7-41c6-b2ec-b8f16c4d21b8" name="IsConnected_flag" type="Data">
+    <subsheetid>d5148c65-d54c-45da-9653-d9cdf17e8d8b</subsheetid>
+    <loginhibit />
+    <display x="210" y="-105" w="90" h="60" />
+    <datatype>flag</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+</process>
